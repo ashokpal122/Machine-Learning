@@ -1,0 +1,5 @@
+enrollee_id,city,city_development_index,gender,relevent_experience,enrolled_university,education_level,major_discipline,experience,company_size,company_type
+29725,city_40,0.776,Male,No relevent experience,no_enrollment,Graduate,STEM,15,,
+11561,city_21,0.624,,No relevent experience,Full time course,Graduate,STEM,5,,
+33241,city_115,0.789,,No relevent experience,,Graduate,Business Degree,<1,,
+666,city_162,0.767,Male,Has relevent experience,no_enrollment,Masters,STEM,>20,,
